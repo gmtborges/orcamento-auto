@@ -1,0 +1,17 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="128" cy="128" r="119" fill="#2563EB"/>
+<path d="M128 180C141.791 180 155.018 174.521 164.77 164.77C174.521 155.018 180 141.791 180 128C180 114.209 174.521 100.982 164.77 91.2304C155.018 81.4786 141.791 76 128 76C114.209 76 100.982 81.4786 91.2304 91.2304C81.4786 100.982 76 114.209 76 128C76 141.791 81.4786 155.018 91.2304 164.77C100.982 174.521 114.209 180 128 180Z" stroke="white" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M128 141C131.448 141 134.754 139.63 137.192 137.192C139.63 134.754 141 131.448 141 128C141 124.552 139.63 121.246 137.192 118.808C134.754 116.37 131.448 115 128 115C124.552 115 121.246 116.37 118.808 118.808C116.37 121.246 115 124.552 115 128C115 131.448 116.37 134.754 118.808 137.192C121.246 139.63 124.552 141 128 141Z" stroke="white" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M128 63V76" stroke="white" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M128 193V180" stroke="white" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M160.5 184.29L154 173.045" stroke="white" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M121.5 116.755L95.5 71.71" stroke="white" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M184.29 160.5L173.045 154" stroke="white" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M71.71 95.5L82.955 102" stroke="white" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M141 128H193" stroke="white" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M63 128H76" stroke="white" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M184.29 95.5L173.045 102" stroke="white" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M71.71 160.5L82.955 154" stroke="white" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M160.5 71.71L154 82.955" stroke="white" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M121.5 139.245L95.5 184.29" stroke="white" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
