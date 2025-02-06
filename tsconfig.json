@@ -1,12 +1,8 @@
 {
   "files": [],
   "references": [
-    {
-      "path": "./tsconfig.node.json"
-    },
-    {
-      "path": "./tsconfig.cloudflare.json"
-    }
+    { "path": "./tsconfig.node.json" },
+    { "path": "./tsconfig.vite.json" }
   ],
   "compilerOptions": {
     "checkJs": true,

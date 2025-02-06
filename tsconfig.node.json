@@ -1,6 +1,7 @@
 {
   "extends": "./tsconfig.json",
   "include": [
+    "server.js",
     "tailwind.config.ts",
     "vite.config.ts",
     "react-router.config.ts"
